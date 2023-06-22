@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Avoid creating -hub dir without processing images (#8334)
