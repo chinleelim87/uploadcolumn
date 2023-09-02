@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+New test for labels and crops (#8861)
