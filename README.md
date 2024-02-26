@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Add missing Explorer docs reference pages (#7455)
