@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Merge pull request #22 from SkalskiP/patch-1
